@@ -1,13 +1,14 @@
 # Author: Nitin Singh
 # Description:
-# This file lists the required Python packages for the project.
+# This file lists the required Python packages for the IPL Match Winner Prediction project.
 # It includes libraries for:
-# - Data manipulation (pandas, numpy)
-# - Data visualization (matplotlib, seaborn)
-# - Machine learning (scikit-learn)
-# - Jupyter notebook support (jupyter, notebook)
+# - Data manipulation
+# - Data visualization
+# - Machine learning
+# - Model serialization
+# - Jupyter notebook support
 #
-# To install these packages, run:
+# To install all dependencies:
 # pip install -r requirements.txt
 
 pandas
@@ -15,5 +16,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+xgboost
+joblib
 jupyter
 notebook
