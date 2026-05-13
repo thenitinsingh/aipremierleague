@@ -1,0 +1,19 @@
+# Author: Nitin Singh
+# Description:
+# This file lists the required Python packages for the project.
+# It includes libraries for:
+# - Data manipulation (pandas, numpy)
+# - Data visualization (matplotlib, seaborn)
+# - Machine learning (scikit-learn)
+# - Jupyter notebook support (jupyter, notebook)
+#
+# To install these packages, run:
+# pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
